@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "6317",
+      "username": "aligeti_rahul",
+      "email": "sunnyaligeti2@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "c1b7",
+      "username": "viswas",
+      "email": "viswas@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "7ee4",
+      "username": "rushin",
+      "email": "rushi@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "ed6e",
+      "username": "charan",
+      "email": "charan@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "3775",
+      "username": "bunny",
+      "email": "aligetirahul24@gmail.com",
+      "password": "rahul@2006"
+    },
+    {
+      "id": "bf45",
+      "username": "SANDEEP",
+      "email": "nnani9140@gmail.com",
+      "password": "SANDY@8688"
+    }
+  ]
+}
